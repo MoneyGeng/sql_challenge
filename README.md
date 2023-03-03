@@ -14,7 +14,7 @@ Using the provided information, I created a table schema for each of the six CSV
 To handle the foreign keys, I created the tables in the correct order. After creating the schema, I imported each CSV file into its corresponding SQL table.
 
 ## Data Analysis
-After completing the data engineering phase, I answered the following questions about the data:
+After completing the data engineering phase, I created queries to complete the folowing requirements:
 
 1. Listed the employee number, last name, first name, sex, and salary of each employee.
 2. Listed the first name, last name, and hire date for the employees who were hired in 1986.
